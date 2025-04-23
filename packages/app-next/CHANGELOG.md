@@ -1,5 +1,12 @@
 # example-app-next
 
+## 0.0.23-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/canon@0.3.2-next.1
+
 ## 0.0.23-next.0
 
 ### Patch Changes

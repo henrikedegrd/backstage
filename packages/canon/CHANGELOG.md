@@ -1,5 +1,11 @@
 # @backstage/canon
 
+## 0.3.2-next.1
+
+### Patch Changes
+
+- 206ffbe: Fixed an issue with Canon's DataTable.Pagination component showing the wrong number for the "to" count.
+
 ## 0.3.2-next.0
 
 ### Patch Changes
